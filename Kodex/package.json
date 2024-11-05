@@ -1,0 +1,12 @@
+{
+  "name": "kodex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./kodex1.css -o ./tailwindcss/main.css",
+    "watch": "tailwindcss -i ./kodex1.css -o ./tailwindcss/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
